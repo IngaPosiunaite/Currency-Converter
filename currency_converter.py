@@ -111,7 +111,7 @@ def main():
     """
     The main function to run the currency converter application.
     """
-    api_key = "562ddaf40c95f5d58108"  # Replace with your API key
+    api_key = "YOUR_API_KEY_HERE" 
     converter = CurrencyConverter(api_key)
 
     print("Welcome to the currency converter!")
